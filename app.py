@@ -10,7 +10,6 @@ Original file is located at
 import streamlit as st
 import tempfile
 import os
-import detection
 from detection import process_video
 
 st.set_page_config(page_title="Secutity System", layout="wide")
